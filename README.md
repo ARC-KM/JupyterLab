@@ -1,2 +1,2 @@
 # JupyterLab
-Basic Jupyter Notebook hands on
+Jupyter Notebook hands on basics
